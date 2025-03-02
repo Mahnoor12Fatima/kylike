@@ -36,6 +36,20 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 "# kylike" 
 
+## Add Blog Post
+
+1. Create a Markdown file in the `_posts` folder.
+2. The filename should follow the format `YYYY-MM-DD-title.md`. For example: `2008-12-01-hello-world.md`.
+3. Include front matter at the beginning of the file. This metadata defines the post's layout, title, date, categories, and a short teaser.
+   Use the following format:
+   ```yaml
+   ---
+   layout: page
+   title: "My 'Hello, World!'"
+   date: 2008-12-01
+   categories: [ASP.NET, WinForms]
+   teaser: "Since this is the first post in a programming blog I think a Hello World program in Winforms and ASP.NET is a good idea."
+   ---
 
 
 4. Write your post content below the front matter using Markdown or HTML.
