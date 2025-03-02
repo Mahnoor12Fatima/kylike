@@ -48,8 +48,8 @@ title: "My 'Hello, World!"
 date: 2008-12-01
 categories: [  ASP.NET, WinForms]
 teaser: "Since this is the first post in a programming blog I think a Hello World program in Winforms and ASP.NET is a good idea."
-
 ---
+```
 
 4. Write your post content below the front matter using Markdown or HTML.
 
@@ -63,7 +63,7 @@ teaser: "Since this is the first post in a programming blog I think a Hello Worl
   url: 'https://statsden.com/'
   image: '/images/statsden.png'
   text: 'Tool for gathering technical information on websites'
-
+```
 
 
 
@@ -82,7 +82,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 permalink           : "/oldprojects/movieplay/"
 ---
-
+```
 4. Write your post content below the front matter using Markdown or HTML.
 
 ### tools
@@ -101,6 +101,7 @@ github_title: "GitHub"  # Optional
 github_link: "https://github.com/amgedr/"  # Optional
 permalink           : "/tools/antpoolmon/"
 ---
+```
 
 4. Write your post content below the front matter using Markdown or HTML.
 
